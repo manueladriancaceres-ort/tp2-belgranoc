@@ -45,7 +45,20 @@ console.log(listaClonStarWars);
 
 //
 //  Ejercicio
-//  sumar positivos y negativos
+//  sumar positivos y negativos, en distintas variables
 //  const listaNumeros = [34,23,45,-12,0,-100];
 //
+
+// suma todo, porque no estuvo clara la consigna
+// programacion imperativa
+let total = 0;
+for (let i = 0; i < listaNumeros.length; i++) {
+    total += listaNumeros[i];
+}
+console.log(total);
+
+// 
+
+
+
 
