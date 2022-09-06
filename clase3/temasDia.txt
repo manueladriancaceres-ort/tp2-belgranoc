@@ -1,0 +1,19 @@
+Temas del 5/9
+
+Repaso de temas anteriores
+	Construcción de un proyecto
+	Manejo de objetos
+	Creación de clases
+
+Temas de tps
+Fecha y temas parcial
+	
+Manejo de archivos sincrónicos.
+
+Break
+
+Ejercicio en grupo, con archivos sincrónicos.
+
+
+
+
