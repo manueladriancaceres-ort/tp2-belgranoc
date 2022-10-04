@@ -1,0 +1,22 @@
+Parcial TP2-2022-2
+
+Se pide procesar los datos del archivo autos.json:
+[
+{"marca":"Ford","modelos":["T","Kuga","Territory","Bronco"],"origen":"EEUU"},
+{"marca":"Toyota","modelos":["Etios","Yaris GR"],"origen":"JAPON"},
+{"marca":"Chevrolet","modelos": ["Camaro"],"origen":"EEUU"},
+{"marca":"Baic","modelos":["XR23","XR24"],"origen":"CHINA"},
+{"marca":"Hyundai","modelos":["Tucson"],"origen":"COREA"}
+]
+
+Guardar los resultados en un archivo llamado resultados, ejemplo:
+{resultado: {cantidadMarcas: 5, cantidadModelos:10, cantidadEEUU: 3} }
+
+1- Crear el proyecto y la estructura de carpetas (1 punto)
+2- Configurar package.json tipo modulo y configurar script (1 punto)
+3- Contar cantidad de modelos (1 punto), usando una clase u objeto para el modelo (1 puntos)
+4- Contar cantidad de marcas (1 punto ), usando una clase o funcion para procesar los datos (1 puntos)
+5- Crear una clase o funcion para leer el archivo (1 punto )
+6- Manejo de excpeciones cuando no se encuentra el archivo ( 1 punto )
+7- Crear una clase o funcion para guardar los datos (1punto)
+8- Crear pruebas unitarias (0.33 para modelos, 0.33 para proceso, 0.33 para leer/guardar en archivo)

@@ -1,0 +1,10 @@
+Temas de la clase
+
+	Type Script
+	Patron de diseño dao
+
+	Aplicaciones Restful	
+
+Ejercicio en grupo
+
+	

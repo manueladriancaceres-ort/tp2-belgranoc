@@ -1,0 +1,9 @@
+
+Crear un sistema
+
+Crud
+
+Patron de diseño DAO en base a una lista en memoria
+
+
+Api Rest

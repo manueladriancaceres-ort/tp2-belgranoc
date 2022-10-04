@@ -1,0 +1,7 @@
+[
+{"marca":"Ford","modelos":["T","Kuga","Territory","Bronco"],"origen":"EEUU"},
+{"marca":"Toyota","modelos":["Etios","Yaris GR"],"origen":"JAPON"},
+{"marca":"Chevrolet","modelos": ["Camaro"],"origen":"EEUU"},
+{"marca":"Baic","modelos":["XR23","XR24"],"origen":"CHINA"},
+{"marca":"Hyundai","modelos":["Tucson"],"origen":"COREA"}
+]
