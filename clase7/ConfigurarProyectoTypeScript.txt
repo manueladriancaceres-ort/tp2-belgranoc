@@ -1,0 +1,51 @@
+Proyecto con TypeScript
+
+https://www.typescriptlang.org/
+
+Typescript es un lenguaje super conjunto de javascript con el propósito de crear aplicaciones grandes usando Javascript. ademas de proporcionarte pitado estático también te proporciona todas las ventajas de las nuevas versiones de Javascript como clases, block scoping y más.
+
+archivos .ts
+    al final se convierte a javascript
+
+Ofrece Static type Checking
+   revision de tipado estatico
+  js es un lenguaje interpretado
+  ts es compilado
+  te muestra errores antes de ejecución
+
+Tipos de datos
+  String, Number, Boolean, Array, Any, Void, Null
+     Tuple, Enums, Generics
+        Clases
+           no protoTypes
+           encapsultaion
+           inheritance
+           modifiers
+
+
+Instalación
+
+npm install typescript --save-dev
+
+Verificar 
+
+npx tsc
+tsc --version
+
+Instalación desde linea de comandos
+tsc -init
+
+Configuracion typescript proyecto node
+
+En tsconfig.json
+
+"target": "es2016",                                  
+"module": "ESNext",                                
+"moduleResolution": "node",
+
+En package.json
+
+"type": "module",
+"dev": "tsc && node src/index.js",  
+
+

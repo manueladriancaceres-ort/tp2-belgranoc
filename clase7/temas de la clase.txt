@@ -1,0 +1,12 @@
+Temas de la clase
+
+
+	Type Script
+	Patron de diseño dao
+	MongoDb
+	Diseño en capas	
+
+Ejercicio en grupo
+
+Cierre
+	

@@ -1,0 +1,32 @@
+
+Instalacion MongoDb de forma local.
+
+https://www.mongodb.com/try/download/community
+
+https://fastdl.mongodb.org/windows/mongodb-windows-x86_64-6.0.2-signed.msi
+
+
+Levantar el servicio
+
+
+Desde lineas de comandos:
+
+mongo
+
+Ver bases de datos: 
+	show dbs;
+
+Elegir la base de datos:
+	use sistema;
+
+Mostrar las colecciones (similar tablas relacionales)
+	show collections;
+
+Crear una coleccion
+	db.createCollection("clientes")
+
+Insert datos en una coleccion
+	db.clientes.insertOne({})
+
+
+	
